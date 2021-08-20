@@ -11,3 +11,5 @@
 
 ### Follow me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05264c?style=for-the-badge&logo=flutter&logoColor=005cc5)](https://www.linkedin.com/in/olga-kleshaeva-841561a1)
+
+[![smmr-96's GitHub stats](https://github-readme-stats.vercel.app/api?username=smmr-96&show_icons=true&theme=tokyonight)](https://github.com/smmr-96/github-readme-stats)
