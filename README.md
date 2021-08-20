@@ -9,4 +9,5 @@
 ![SQL](https://img.shields.io/badge/-SQL-05264c?style=for-the-badge&logo=flutter&logoColor=b31d28)
 
 
-Follow me
+### Follow me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05264c?style=for-the-badge&logo=flutter&logoColor=005cc5)](https://www.linkedin.com/in/olga-kleshaeva-841561a1)
