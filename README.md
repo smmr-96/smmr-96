@@ -2,6 +2,11 @@
 
 ## I'm a beginner Software Engineer
 
-Languages and tools
+### Languages and tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-05264c?style=for-the-badge&logo=flutter&logoColor=ea4aaa)
+![HTML](https://img.shields.io/badge/-HTML-05264c?style=for-the-badge&logo=flutter&logoColor=22863a)
+![CSS](https://img.shields.io/badge/-CSS-05264c?style=for-the-badge&logo=flutter&logoColor=ffdf5d)
+![SQL](https://img.shields.io/badge/-SQL-05264c?style=for-the-badge&logo=flutter&logoColor=b31d28)
+
 
 Follow me
