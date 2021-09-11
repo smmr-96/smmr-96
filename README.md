@@ -1,6 +1,6 @@
 ![Header](https://github.com/smmr-96/smmr-96/blob/main/assets/engin-akyurt-Hlkuojv_P6I-unsplash.jpg)
 
-## I'm a beginner Software Engineer
+## I'm a beginner Front End Developer
 
 ### Languages and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05264c?style=for-the-badge&logo=flutter&logoColor=ea4aaa)
